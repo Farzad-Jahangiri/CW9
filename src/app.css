@@ -1,0 +1,9 @@
+.w-45{
+    width: 45rem;
+}
+.bg-me{
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+.mt-10{
+    margin-top: 10rem;
+}
